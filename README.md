@@ -1,5 +1,5 @@
 # discord.js-command-template
-This is just a command template if anyone needs help with it :)
+This is just a command handler command template if anyone needs help with it :)
 
 
 Please note that, discord.js is more advanced; and I would recommend learning node.js basics firstly, so that you would get a better understanding of it.
